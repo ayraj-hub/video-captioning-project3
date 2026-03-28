@@ -1,0 +1,22 @@
+# --- Deep Learning & Vision Models ---
+torch
+torchvision
+transformers
+
+# --- Edge Acceleration ---
+onnxruntime
+
+# --- Web UI / Dashboard ---
+gradio
+
+# --- Image & Video Processing ---
+opencv-python-headless
+
+# --- Data & Metrics ---
+pandas
+numpy
+nltk
+
+# --- XAI Visualization (Task 2) ---
+matplotlib
+seaborn
