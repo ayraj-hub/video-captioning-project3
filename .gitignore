@@ -1,0 +1,35 @@
+# Dataset
+TrainValVideo/
+
+# Frames
+processed_frames/
+final_frames_v2/
+
+# Models
+blip_video_model_2/
+blip_video_model_2_epoch_1/
+blip_video_model_2_epoch_2/
+blip_video_model_2_epoch_3/
+videomaegpt2_model/
+checkpoints_task3*/
+*.onnx
+project3/blip_vision_encoder_int8.onnx
+project3/blip_vision_encoder.onnx.data
+
+# CSV dataset
+msrvtt_2K_preprocessed.csv
+msrvtt_train_2k_fullcaptions.csv
+*.csv
+
+
+# Virtual environment
+venv/
+
+# Gradio cache
+.gradio/
+
+
+
+# Python cache
+__pycache__/
+*.pyc

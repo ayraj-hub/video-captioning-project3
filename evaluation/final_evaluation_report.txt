@@ -1,0 +1,11 @@
+FINAL MODEL EVALUATION REPORT
+Model: ./blip_video_model_2
+========================================
+Bleu_1: 89.50
+Bleu_2: 81.08
+Bleu_3: 72.10
+Bleu_4: 62.99
+METEOR: Error computing metric
+ROUGE_L: 73.08
+CIDEr: 87.39
+========================================

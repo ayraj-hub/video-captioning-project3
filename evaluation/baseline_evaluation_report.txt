@@ -1,0 +1,10 @@
+BASELINE MODEL EVALUATION REPORT
+Model: Salesforce/blip-image-captioning-base
+========================================
+Bleu_1: 70.21
+Bleu_2: 50.34
+Bleu_3: 33.74
+Bleu_4: 22.36
+ROUGE_L: 47.86
+CIDEr: 29.92
+========================================
